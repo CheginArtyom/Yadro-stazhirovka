@@ -1,5 +1,6 @@
 # Stajirovka
-
+#Замените apiKey в вайле currency.service.ts на свой, потому что у меня кончились бесплатные запросы
+№Также данные обновляются не раз в 5 секунд, а раз в 5 минут, чтобы не тратить запросы
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
 ## Development server
